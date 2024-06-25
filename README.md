@@ -1,5 +1,5 @@
-# EPPC24
-a colourful collection of slides, links, tipps and tricks from EPPC24
+***#1 EPPC24***
+#2a colourful collection of slides, links, tipps and tricks from EPPC24
 
 obviously we start with the blog of our wonderful hosts:
 
